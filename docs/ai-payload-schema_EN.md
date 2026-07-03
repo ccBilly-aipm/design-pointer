@@ -1,4 +1,6 @@
-# AI Payload Schema
+# AI Payload Schema (EN)
+
+> Language: EN | [CN](ai-payload-schema_CN.md)
 
 This document describes an initial structured payload format for communicating visual UI modification intent to AI coding agents.
 

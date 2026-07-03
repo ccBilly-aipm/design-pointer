@@ -1,4 +1,6 @@
-# Problem Statement
+# Problem Statement (EN)
+
+> Language: EN | [CN](problem-statement_CN.md)
 
 AI-assisted coding has made it easier to generate, refactor, and modify frontend code. However, frontend UI work is often visual, local, and subtle. The hard part is not always writing the code. The hard part is communicating the exact visual intent to an AI coding agent.
 

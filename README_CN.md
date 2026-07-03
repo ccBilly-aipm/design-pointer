@@ -1,6 +1,6 @@
 # DesignPointer (CN)
 
-> Language: CN (default) | [EN](README_EN.md)
+> Language: CN | [EN](README_EN.md)
 
 指向 UI，画出你想要的样子，让 AI 理解这次修改。
 

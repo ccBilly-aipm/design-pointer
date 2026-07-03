@@ -1,4 +1,6 @@
-# Product Requirements
+# Product Requirements (EN)
+
+> Language: EN | [CN](product-requirements_CN.md)
 
 ## Product Goal
 

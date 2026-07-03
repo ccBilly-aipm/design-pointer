@@ -1,4 +1,6 @@
-# Architecture Notes
+# Architecture Notes (EN)
+
+> Language: EN | [CN](architecture-notes_CN.md)
 
 DesignPointer is currently a planning-stage repository. This document outlines a possible future architecture without implementing the browser extension yet.
 
